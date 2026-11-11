@@ -1,0 +1,17 @@
+langgraph==1.0.8
+langgraph-prebuilt==1.0.8
+langchain==1.2.0
+langchain-core==1.2.5
+langchain-openai==1.0.2
+langchain-community==0.4.1
+langchain-text-splitters
+langchain-chroma
+langchain-tavily==0.2.17
+chromadb
+tiktoken==0.12.0
+python-dotenv==1.1.0
+pydantic==2.10.3
+openai==2.4.0
+requests
+beautifulsoup4
+lxml
